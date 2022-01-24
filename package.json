@@ -1,0 +1,9 @@
+{
+    "name": "com.dropecho.ik",
+    "version": "0.3.1",
+    "displayName": "IK Utilities",
+    "description": "A collection of ik utilities",
+    "author": "Dropecho <vantreeseba@gmail.com>",
+    "repository": "github:dropecho/unity_ik_utils",
+    "license": "MIT"
+}
